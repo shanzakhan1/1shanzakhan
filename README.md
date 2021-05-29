@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shanza Khan.
+- 👋 Hi, I’m Shanza.
 - 👀 I’m interested in coding and expanding my knowledge in the world of computer science. 
 - 🌱 I’m currently learning the amazing programming language called C++.
 - 💞️ I’m looking to collaborate on interesting and challenging projects.
